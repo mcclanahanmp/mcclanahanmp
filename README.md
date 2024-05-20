@@ -1,5 +1,5 @@
-<p align="center">
-    **Michael McClanahan**
+<p align="center" fontsize="24" fontweight="Bold" >
+    Michael McClanahan
 </p>
 
 <p align="center">
