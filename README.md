@@ -4,6 +4,14 @@
 
 <div>
     <img src="https://github.com/mcclanahanmp/mcclanahanmp/blob/main/assets/Python.svg" alt="">
+    <img src="https://github.com/mcclanahanmp/mcclanahanmp/blob/main/assets/C_Lang.svg" alt="">
+    <img src="https://github.com/mcclanahanmp/mcclanahanmp/blob/main/assets/vsCode.svg" alt="">
+    <img src="https://github.com/mcclanahanmp/mcclanahanmp/blob/main/assets/JavaScript.svg" alt="">
+    <img src="https://github.com/mcclanahanmp/mcclanahanmp/blob/main/assets/Pycharm.svg" alt="">
+    <img src="https://github.com/mcclanahanmp/mcclanahanmp/blob/main/assets/html5.svg" alt="">
+    <img src="https://github.com/mcclanahanmp/mcclanahanmp/blob/main/assets/Git.svg" alt="">
+    <img src="https://github.com/mcclanahanmp/mcclanahanmp/blob/main/assets/NodeJS.svg" alt="">
+    <img src="https://github.com/mcclanahanmp/mcclanahanmp/blob/main/assets/VMware.svg" alt="">
 </div>
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
