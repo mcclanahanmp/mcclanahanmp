@@ -1,6 +1,7 @@
-<p align="center" font-size="24" color="azure" font-weight="bold" >
+<p style="text-align: center; font-size: 24px; color: azure; font-weight: bold;">
     Michael McClanahan
 </p>
+
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
