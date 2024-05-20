@@ -27,6 +27,7 @@
 ### Preferred Tools:
 
 <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="55" height="55" alt="">
     <img src="https://github.com/mcclanahanmp/mcclanahanmp/blob/main/assets/Git.svg" alt="">
     <img src="https://github.com/mcclanahanmp/mcclanahanmp/blob/main/assets/vsCode.svg" alt="">
     <img src="https://github.com/mcclanahanmp/mcclanahanmp/blob/main/assets/VMware.svg" alt="">
