@@ -24,7 +24,7 @@
     <img src="https://github.com/mcclanahanmp/mcclanahanmp/blob/main/assets/JavaScript.svg" alt="">
     <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" width="65" height="65" alt="">
     <img src="https://github.com/mcclanahanmp/mcclanahanmp/blob/main/assets/html5.svg" alt="">
-    <img src="https://github.com/mcclanahanmp/mcclanahanmp/blob/main/assets/NodeJS.svg" alt="">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="65" height="65" alt="">
 </div>
 
 ### Preferred Tools:
@@ -32,10 +32,10 @@
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="65" height="65" alt="">
     <img src="https://github.com/mcclanahanmp/mcclanahanmp/blob/main/assets/VMware.svg" alt="">
+    <img src="https://github.com/mcclanahanmp/mcclanahanmp/blob/main/assets/vsCode.svg" alt="">
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="65" height="65" alt="">
     <img src="https://github.com/mcclanahanmp/mcclanahanmp/blob/main/assets/Git.svg" alt="">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="65" height="65" alt="">
-    <img src="https://github.com/mcclanahanmp/mcclanahanmp/blob/main/assets/vsCode.svg" alt="">
     <img src="https://github.com/mcclanahanmp/mcclanahanmp/blob/main/assets/Pycharm.svg" alt="">
 </div>
 
