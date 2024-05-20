@@ -23,7 +23,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="65" height="65" alt="">
     <img src="https://github.com/mcclanahanmp/mcclanahanmp/blob/main/assets/JavaScript.svg" alt="">
     <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" width="65" height="65" alt="">
-    <img src="https://github.com/mcclanahanmp/mcclanahanmp/blob/main/assets/html5.svg" alt="">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="65" height="65" alt="">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="65" height="65" alt="">
 </div>
 
