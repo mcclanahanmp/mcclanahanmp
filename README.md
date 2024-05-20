@@ -18,7 +18,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" width="55" height="55" alt="">
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="55" height="55" alt="">
     <img src="https://github.com/mcclanahanmp/mcclanahanmp/blob/main/assets/Python.svg" alt="">
-    <img src="https://github.com/mcclanahanmp/mcclanahanmp/blob/main/assets/C_Lang.svg" alt="">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="55" height="55" alt="">
     <img src="https://github.com/mcclanahanmp/mcclanahanmp/blob/main/assets/JavaScript.svg" alt="">
     <img src="https://github.com/mcclanahanmp/mcclanahanmp/blob/main/assets/NodeJS.svg" alt="">
     <img src="https://github.com/mcclanahanmp/mcclanahanmp/blob/main/assets/html5.svg" alt="">
