@@ -36,6 +36,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="65" height="65" alt="">
     <img src="https://github.com/mcclanahanmp/mcclanahanmp/blob/main/assets/Git.svg" alt="">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="65" height="65" alt="">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" width="65" height="65" alt="">
     <img src="https://github.com/mcclanahanmp/mcclanahanmp/blob/main/assets/Pycharm.svg" alt="">
 </div>
 
