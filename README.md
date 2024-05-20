@@ -20,6 +20,7 @@
     <img src="https://github.com/mcclanahanmp/mcclanahanmp/blob/main/assets/JavaScript.svg" alt="">
     <img src="https://github.com/mcclanahanmp/mcclanahanmp/blob/main/assets/html5.svg" alt="">
     <img src="https://github.com/mcclanahanmp/mcclanahanmp/blob/main/assets/NodeJS.svg" alt="">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="">
     
 </div>
 
