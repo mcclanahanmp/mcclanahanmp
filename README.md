@@ -46,6 +46,7 @@
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" width="65" height="65" alt="">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="65" height="65" alt="">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" width="65" height="65" alt="">
 </div>
 
 ---
