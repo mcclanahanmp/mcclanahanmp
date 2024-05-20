@@ -3,7 +3,7 @@
 ### Preferred Languages and Tools:
 
 <div>
-    <img src="https://raw.githubusercontent.com/assets/mcclanahanmp/mcclanahanmp/main/Python.svg" alt="">
+    <img src="https://github.com/mcclanahanmp/mcclanahanmp/blob/main/assets/Python.svg" alt="">
 </div>
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
