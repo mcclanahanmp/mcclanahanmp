@@ -1,3 +1,11 @@
+<p align="center">
+    **Michael McClanahan**
+</p>
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
 ### About Me:
 
 ---
@@ -38,9 +46,7 @@
   <img src="https://komarev.com/ghpvc/?username=mcclanahanmp&style=for-the-badge&color=orange" alt=""/>
 </div>
 
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
+
 
 <!--
 **mcclanahanmp/mcclanahanmp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
