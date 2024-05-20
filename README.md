@@ -1,4 +1,4 @@
-<p align="center" fontsize="24" fontweight="Bold" >
+<p align="center" font-size="24" color="azure" font-weight="bold" >
     Michael McClanahan
 </p>
 
