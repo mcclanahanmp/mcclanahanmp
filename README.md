@@ -21,7 +21,7 @@
     <img src="https://github.com/mcclanahanmp/mcclanahanmp/blob/main/assets/html5.svg" alt="">
     <img src="https://github.com/mcclanahanmp/mcclanahanmp/blob/main/assets/NodeJS.svg" alt="">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="55" height="55" alt="">
-    
+    <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-plain.svg" width="55" height="55" alt="">
 </div>
 
 ### Preferred Tools:
