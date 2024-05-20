@@ -1,11 +1,11 @@
-<p align="center" style="font-size: 24px; color: azure; font-weight: bold;">
+<p align="center" font-size="24px" color="azure" font-weight="bold">
     Michael McClanahan
 </p>
 
 
 
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+    <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
 ### About Me:
@@ -36,24 +36,24 @@
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mcclanahanmp&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mcclanahanmp&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=mcclanahanmp&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcclanahanmp&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+    <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=mcclanahanmp&show_icons=true&theme=vision-friendly-dark">
+    <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcclanahanmp&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=mcclanahanmp&style=for-the-badge&color=orange" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=mcclanahanmp&style=for-the-badge&color=orange" alt=""/>
 </div>
 
 <div align="center">
-![Visitor Count](https://profile-counter.glitch.me/{mcclanahanmp}/count.svg)
+    <img src="https://profile-counter.glitch.me/{mcclanahanmp}/count.svg" alt=""/>
 </div>
 
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
 
