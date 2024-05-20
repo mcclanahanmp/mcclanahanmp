@@ -48,6 +48,12 @@
   <img src="https://komarev.com/ghpvc/?username=mcclanahanmp&style=for-the-badge&color=orange" alt=""/>
 </div>
 
+![Visitor Count](https://profile-counter.glitch.me/{mcclanahanmp}/count.svg)
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
 
 
 <!--
