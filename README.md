@@ -20,7 +20,7 @@
     <img src="https://github.com/mcclanahanmp/mcclanahanmp/blob/main/assets/Python.svg" alt="">
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="65" height="65" alt="">
     <img src="https://github.com/mcclanahanmp/mcclanahanmp/blob/main/assets/JavaScript.svg" alt="">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg width="65" height="65" alt="">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" width="65" height="65" alt="">
     <img src="https://github.com/mcclanahanmp/mcclanahanmp/blob/main/assets/html5.svg" alt="">
     <img src="https://github.com/mcclanahanmp/mcclanahanmp/blob/main/assets/NodeJS.svg" alt="">
 </div>
