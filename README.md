@@ -1,6 +1,7 @@
-<p style="align: center; font-size: 24px; color: azure; font-weight: bold;">
+<p align="center" style="font-size: 24px; color: azure; font-weight: bold;">
     Michael McClanahan
 </p>
+
 
 
 <p align="center">
