@@ -1,6 +1,6 @@
-<p align="center" font-size="24px" color="azure" font-weight="bold">
+<h1 align="center" font-size="30px" color="azure" font-weight="bold">
     Michael McClanahan
-</p>
+</h1>
 
 
 
