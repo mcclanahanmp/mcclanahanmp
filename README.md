@@ -10,6 +10,11 @@
 
 ### About Me:
 
+<p align="left">
+    Passionate about technology, with a current focus on Cloud Computing, Administrative scripting, and programming. Committed to continuous learning and development, I thrive on
+    challenges related to IT and Computer Science, constantly seeking new opportunities to expand my knowledge and expertise. 
+</p>
+
     https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg
 
 ---
