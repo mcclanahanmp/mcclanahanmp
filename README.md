@@ -2,6 +2,8 @@
     Michael McClanahan
 </h1>
 
+---
+
 <p align="center">
     <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
@@ -18,8 +20,6 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg?logo=linkedin&logoColor=white" width="40" height="40">
     </a>
 </p>
-
----
 
 <div align="center">
     <a href="https://www.buymeacoffee.com/IT_SrvrAdmin">
