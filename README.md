@@ -34,7 +34,7 @@
     <img src="https://github.com/mcclanahanmp/mcclanahanmp/blob/main/assets/VMware.svg" alt="">
     <img src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-original.svg" width="65" height="65" alt="">
     <img src="https://github.com/mcclanahanmp/mcclanahanmp/blob/main/assets/vsCode.svg" alt="">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="65" height="65" alt="">
+    <img src="https://github.com/mcclanahanmp/mcclanahanmp/blob/main/assets/GitHub.svg" width="65" height="65" alt="">
     <img src="https://github.com/mcclanahanmp/mcclanahanmp/blob/main/assets/Git.svg" alt="">
     <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" width="65" height="65" alt="">
     <img src="https://github.com/mcclanahanmp/mcclanahanmp/blob/main/assets/Pycharm.svg" alt="">
