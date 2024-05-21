@@ -16,16 +16,12 @@
 </p>
 
 <div align="center">
-    <p>
-        <a href="https://www.linkedin.com/in/michael-mcclanahan-mcp-11b79223a/">
-            <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg?logo=linkedin&logoColor=white" width="40" height="40">
-        </a>
-    </p>
-    <p>
-        <a href="https://www.buymeacoffee.com/IT_SrvrAdmin">
-            <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee">
-        </a>
-    </p>
+    <a href="https://www.linkedin.com/in/michael-mcclanahan-mcp-11b79223a/">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg?logo=linkedin&logoColor=white" width="40" height="40">
+    </a>
+    <a href="https://www.buymeacoffee.com/IT_SrvrAdmin">
+        <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee">
+    </a>
 </div>
 
 ---
