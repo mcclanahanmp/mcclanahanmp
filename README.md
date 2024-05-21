@@ -90,9 +90,9 @@
     <img src="https://profile-counter.glitch.me/{mcclanahanmp}/count.svg" alt=""/>
 </div>
 
-<p align="center">
+<div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+</div>
 
 
 
