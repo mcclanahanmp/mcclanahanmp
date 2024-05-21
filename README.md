@@ -14,7 +14,9 @@
 </p>
 
 <div align="center">
-[<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg?logo=linkedin&logoColor=white" width="40" height="40">](https://www.linkedin.com/in/michael-mcclanahan-mcp-11b79223a/)
+    <a href="https://www.linkedin.com/in/michael-mcclanahan-mcp-11b79223a/"
+        <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg?logo=linkedin&logoColor=white" width="40" height="40">
+    </a>
 </div>
 
 ---
