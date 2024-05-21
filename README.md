@@ -1,4 +1,4 @@
-<h1 align="center" font-size="30px" color="Blue" font-weight="bold">
+<h1 align="center" font-size="30px" color=Blue font-weight="bold">
     Michael McClanahan
 </h1>
 
