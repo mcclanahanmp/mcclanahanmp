@@ -16,7 +16,8 @@
 </p>
 
 [![LinkedIn](https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-mcclanahan-mcp-11b79223a/)
-    https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg
+[<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg?logo=linkedin&logoColor=white" width="65" height="65">](https://www.linkedin.com/in/michael-mcclanahan-mcp-11b79223a/)
+
 
 ---
 
