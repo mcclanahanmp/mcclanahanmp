@@ -15,7 +15,7 @@
     challenges related to IT and Computer Science, constantly seeking new opportunities to expand my knowledge and expertise. 
 </p>
 
-[<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg?logo=linkedin&logoColor=white" width="65" height="65">](https://www.linkedin.com/in/michael-mcclanahan-mcp-11b79223a/)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg?logo=linkedin&logoColor=white" width="45" height="45">](https://www.linkedin.com/in/michael-mcclanahan-mcp-11b79223a/)
 
 ---
 
