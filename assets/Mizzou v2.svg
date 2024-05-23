@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2017 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="17in" height="12in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 17000 12000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+   <clipPath id="id0">
+    <rect x="-12694.63" y="-2580.43" width="16803.41" height="16803.41"/>
+   </clipPath>
+   <clipPath id="id1">
+    <path d="M-12694.63 14222.98l16803.41 0 0 -16803.41 -16803.41 0 0 16803.41z"/>
+   </clipPath>
+   <clipPath id="id2">
+    <rect x="-12694.63" y="-2580.43" width="16803.41" height="16803.41"/>
+   </clipPath>
+   <clipPath id="id3">
+    <rect x="3644.56" y="3869.19" width="24355.02" height="4157.48"/>
+   </clipPath>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+  </g>
+  <g style="clip-path:url(#id1)">
+   <image x="-12694.63" y="-2580.43" width="16803.41" height="16803.41" xlink:href="Mizzou v2_Images\Mizzou v2_ImgID1.png"/>
+  </g>
+  <g style="clip-path:url(#id2)">
+  </g>
+  <g style="clip-path:url(#id3)">
+   <image x="3644.56" y="3869.19" width="24355.02" height="4157.47" xlink:href="Mizzou v2_Images\Mizzou v2_ImgID2.png"/>
+  </g>
+ </g>
+</svg>
