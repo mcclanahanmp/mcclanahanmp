@@ -54,6 +54,7 @@
     <img src="https://github.com/mcclanahanmp/mcclanahanmp/blob/main/assets/GitHub.svg" width="65" height="65" alt="">
     <img src="https://github.com/mcclanahanmp/mcclanahanmp/blob/main/assets/Git.svg" alt="">
     <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="65" height="65" alt="">
+    <img src="https://github.com/mcclanahanmp/mcclanahanmp/blob/main/assets/chatgpt.svg" width="65" height="65" alt="">
     <img src="https://github.com/mcclanahanmp/mcclanahanmp/blob/main/assets/Reddit.svg" width="65" height="65" alt="">
     <img src="https://github.com/devicons/devicon/blob/master/icons/stackoverflow/stackoverflow-original.svg" width="65" height="65" alt="">
 </div>
