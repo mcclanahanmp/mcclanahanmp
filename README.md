@@ -1,11 +1,11 @@
-<h1> 
-    <a align="center" font-size="35px" font-color="Blue" font-weight="bold">
-    Michael McClanahan
-    </a>
-    <a align="center">
+<h1 align="center">
+    <span style="font-size: 35px; color: blue; font-weight: bold;">
+        Michael McClanahan
+    </span>
+    <br>
     <img src="https://github.com/mcclanahanmp/mcclanahanmp/blob/main/assets/Mizzou%20v2.svg" width="450" alt="">
-    </a>
 </h1>
+
 
 <p align="center">
     <img width="1000" src="assets/github-snake.svg" alt="snake"/>
