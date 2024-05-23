@@ -3,7 +3,7 @@
         Michael McClanahan
     </span>
     <br>
-    <img src="https://github.com/mcclanahanmp/mcclanahanmp/blob/main/assets/Mizzou%20v2.svg" width="450" alt="" style="margin-left: -30px;">
+    <img src="https://github.com/mcclanahanmp/mcclanahanmp/blob/main/assets/Mizzou%20v2.svg" width="450" alt="" style="margin-left: -40px;">
 </h1>
 
 
