@@ -2,6 +2,10 @@
     Michael McClanahan
 </h1>
 
+<h2 align="center">
+    <img src="https://github.com/mcclanahanmp/mcclanahanmp/blob/main/assets/Mizzou%20v2.svg" alt="">
+</h2>
+
 <p align="center">
     <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
