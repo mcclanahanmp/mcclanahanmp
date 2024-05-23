@@ -1,9 +1,10 @@
 <h1 align="center" font-size="35px" font-color="Blue" font-weight="bold">
     Michael McClanahan
+    <img src="https://github.com/mcclanahanmp/mcclanahanmp/blob/main/assets/Mizzou%20v2.svg" width="450" alt="">
 </h1>
 
 <h2 align="center">
-    <img src="https://github.com/mcclanahanmp/mcclanahanmp/blob/main/assets/Mizzou%20v2.svg" alt="">
+    
 </h2>
 
 <p align="center">
